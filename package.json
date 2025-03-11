@@ -2,6 +2,7 @@
   "name": "currency_converter",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Baji108.github.io/currency_converter/",
   "type": "module",
   "scripts": {
     "dev": "vite",
